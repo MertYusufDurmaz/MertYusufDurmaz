@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mert Yusuf Durmaz</h1>
 <h3 align="center">"Building what I imagine, automating what is repetitive."</h3>
 
+
+
 - 👨‍💻 All of my projects are available at [mertdurmaz.dev](mertdurmaz.dev)
 
 - 📫 How to reach me **mertyusufdurmaz1@gmail.com**
@@ -19,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyusufdurmaz&show_icons=true&locale=en" alt="mertyusufdurmaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertyusufdurmaz&" alt="mertyusufdurmaz" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertyusufdurmaz&label=Profile%20views&color=0e75b6&style=flat" alt="mertyusufdurmaz" /> </p>
